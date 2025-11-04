@@ -33,9 +33,9 @@
     "diffEditor.removedLineBackground": "#df9f9f33", // Removed line background
 
     // Editor - Gutter
-    "editorGutter.addedBackground": "#9fdfac", // Added line indicator
+    "editorGutter.addedBackground": "#b3b3b3", // Added line indicator
     "editorGutter.deletedBackground": "#df9f9f", // Deleted line indicator
-    "editorGutter.modifiedBackground": "#dfc59f", // Modified line indicator
+    "editorGutter.modifiedBackground": "#b3b3b3", // Modified line indicator
 
     // Sidebar
     "sideBar.background": "#0a0a0a", // Sidebar background
@@ -122,8 +122,8 @@
     "scrollbarSlider.hoverBackground": "#ffffff24", // Scrollbar hover background
 
     // Git Decorations
-    "gitDecoration.modifiedResourceForeground": "#fafafa", // Modified file color (M)
-    "gitDecoration.untrackedResourceForeground": "#fafafa", // Untracked file color (U)
+    "gitDecoration.modifiedResourceForeground": "#e0e0e0", // Modified file color (M)
+    "gitDecoration.untrackedResourceForeground": "#e0e0e0", // Untracked file color (U)
     "gitDecoration.conflictingResourceForeground": "#df9f9f", // Conflicting changes (!)
     "gitDecoration.deletedResourceForeground": "#df9f9f", // Deleted files (D)
     "gitDecoration.ignoredResourceForeground": "#575757",
